@@ -21,7 +21,7 @@ análise MIS.
 - SLA (%)
 
 ## 📊 Dashboard
-![Visão Geral](docs/dashboard_visao_geral.png)
+![Visão Geral](projeto-01-dashboard-operacional/docs/dashboard-visao-geral.png)
 
 ## 💡 Principais Insights
 - Alto volume de tickets ainda em backlog.
